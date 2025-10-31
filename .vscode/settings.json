@@ -1,3 +1,6 @@
 {
+    "editor.maxTokenizationLineLength": 50000,
     "python.defaultInterpreterPath": "wikipedia_scraper_env\\Scripts\\python.exe"
+    
+
 }
