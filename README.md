@@ -1,6 +1,7 @@
 ***UNDER CONSTRUCTION***
 
 clone the repo and see for packages to install in the requirements.txt
+make a virtual environment in the folder named python wikipedia_scraper_env
 
 included:
 
