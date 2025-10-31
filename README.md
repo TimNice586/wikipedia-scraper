@@ -11,5 +11,3 @@ included:
 
 *main.py (create a JSON with an added paragraph to the leaders)
 -> activate by typing : python main.py
-
-*
