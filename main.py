@@ -1,4 +1,5 @@
-from wikipedia_scraper_env import WikipediaScraper
+# type: ignore
+from src.wikipediaScraper import WikipediaScraper
 
 def main():
     #create a WikipediaScraper
@@ -7,5 +8,5 @@ def main():
     #create a JSON-file with the first paragraph of each leader added
     Scraper.to_json_file()
 
-#if __name__ == "__main__":
-#    main()
+if __name__ == "__main__":
+    main()

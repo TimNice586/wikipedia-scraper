@@ -6,9 +6,10 @@ included:
 
 *notebook with all exercises done
 
-*leaders_scraper.py
--> activate it by typing : python wikipedia_scraper_env/leaders_scraper.py
+*leaders_scraper.py in src folder
+-> activate it by typing : python leaders_scraper.py
 
-*main.py
+*main.py (create a JSON with an added paragraph to the leaders)
 -> activate by typing : python main.py
-(it will create a JSON with an added paragraph to the leaders)
+
+*
