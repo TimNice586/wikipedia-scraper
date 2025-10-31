@@ -1,6 +1,8 @@
 ***UNDER CONSTRUCTION***
 
-clone the repo and see for packages to install in the requirements.txt
+first, clone the repo and see for packages to install in the requirements.txt
+
+second, make a virtual environment in the folder of the repo and call it wikipedia_scraper_env
 
 included:
 
